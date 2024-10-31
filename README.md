@@ -18,4 +18,4 @@ Desenvolvimento Ágil - 2024/2
 1. [Requisitos funcionais](/Requisitos%20de%20Usuário/RF.md)
 2. [Requisitos não funcionais](/Requisitos%20de%20Usuário/RNF.md)
 3. [Histórias de usuário](/Requisitos%20de%20Usuário/HistoriasUsuario.md)
-4. [Requisitos de sistema](/Requisitos%20de%20#Sistema)
+4. [Requisitos de sistema](/Requisitos%20de%20Sistema)
