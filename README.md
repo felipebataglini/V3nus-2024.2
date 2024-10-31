@@ -12,7 +12,15 @@ Desenvolvimento Ágil - 2024/2
 * [Thiago Arakaki](https://github.com/arakakithiago)
 
 ## Descrição do projeto
+O projeto a ser desenvolvido é relacionado ao controle de entrada de produtos, entrada e saída de doações e visualização de estoque. Tal sistema será relacionado ao projeto Bons Fluídos da UTFPR-CP, que tem como foco o combate a pobreza menstrual e o diálogo sobre a saúde menstrual, com meninas das escolas públicas de Cornélio Procópio.
 
+### As principais funcionalidade do sistema serão:
+* Sistema desktop programado em Java;
+* Gerenciamento de doações;
+* Gerenciamento de voluntários do projeto;
+* Gerenci
+* Integração com banco de dados SQL;
+* Acesso por login e senha.
 
 ## Documentos importantes
 1. [Requisitos funcionais](/Requisitos%20de%20Usuário/RF.md)
