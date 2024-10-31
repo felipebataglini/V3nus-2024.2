@@ -9,6 +9,8 @@
 | RF03 |  O sistema deve ser implementado na linguagem Java.              |  Organizacionais/Implementação       |Alta       |     -               |
 | RF04 |  O sistema não deve revelar as informações das doações.              |  Éticos      |Alta       |     -               |
 | RF05 |  O sistema deverá armazenar as informações de acordo com a Lei Geral de Proteção de Dados (LGPD) - lei 13.709/2018              |  Legais       |Alta       |     -   |
+| RF06 |  O sistema ficará 24 horas online todos os dias.              |  Confiabilidade       | Alta       |     -   |
+
 
 
 
