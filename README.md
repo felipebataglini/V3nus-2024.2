@@ -1,5 +1,5 @@
 # V3nus
-![1. Logo](/Imagens/logo.jpg)
+![1. Logo](/Imagens/logo.jpg =250x)
 
 Disciplina: Desenvolvimento Ágil - 2024/2
 
