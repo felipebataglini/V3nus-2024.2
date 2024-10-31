@@ -4,9 +4,14 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
-| RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
+| RF01 |  O usuário deve conseguir consultar os dados com no máximo 5 cliques | Usabilidade |Média       |    -             |
+| RF02 |  O sistema deve ser operacionalizado em Windows e linux     |  Portabilidade     |Média        |    -            |
+| RF03 |  O sistema deve ser implementado na linguagem Java.              |  Organizacionais/Implementação       |Alta       |     -               |
+| RF04 |  O sistema não deve revelar as informações das doações.              |  Éticos      |Alta       |     -               |
+| RF05 |  O sistema deverá armazenar as informações de acordo com a Lei Geral de Proteção de Dados (LGPD) - lei 13.709/2018              |  Legais       |Alta       |     -   |
+
+
+
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
