@@ -18,7 +18,7 @@ O projeto a ser desenvolvido é relacionado ao controle de entrada de produtos, 
 * Sistema desktop programado em Java;
 * Gerenciamento de doações;
 * Gerenciamento de voluntários do projeto;
-* Gerenci
+* Gerenciamento de escolas participantes;
 * Integração com banco de dados SQL;
 * Acesso por login e senha.
 
