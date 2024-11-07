@@ -1,1 +1,0 @@
-# Requisitos não funcionais
