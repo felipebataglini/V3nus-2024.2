@@ -26,7 +26,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário quero poder registrar e deletar escolas doadoras</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar de maneira clara uma modificação nas escolas doadoras</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar de maneira clara qualquer inserção ou remoção de escolas doadoras</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Alta </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF02</td>
         </tr>
@@ -34,7 +34,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar e atualizar escolas doadoras</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Na página inicial deve ter uma opção para consultar e atualizar escolas doadoras</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar de maneira clara uma modificação nas escolas doadoras</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
         </tr>
@@ -42,7 +42,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder registrar produtos recebidos</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes aos visitantes</li><li> Os vídeos postados devem aparecer ao entrar no perfil para que seja possível seu acesso</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Expecificar os tipos de produtos que podem ser recebidos</li><li></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
         </tr>
