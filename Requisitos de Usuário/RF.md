@@ -4,7 +4,7 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder entrar com seus dados.                  |  Alta      |     -       |
+| RF01 |              O usuário deve poder entrar com seus dados, como CPF, nome, e-mail, entre outros..                  |  Alta      |     -       |
 | RF02 |             O usuário deve poder registrar e deletar escolas doadoras.    |  Alta      |     -       |
 | RF03 |             O usuário deve poder consultar e atualizar escolas doadoras.  |  Medio     |     -       |
 | RF04 |             O usuário deve poder registrar produtos recebidos.            |  Medio      |     -       |
