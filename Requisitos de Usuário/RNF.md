@@ -4,12 +4,12 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RNF01 |  O usuário deve conseguir consultar os dados com no máximo 5 cliques | Usabilidade |Baixa       |    -             |
-| RNF02 |  O sistema deve ser operacionalizado em Windows e linux     |  Portabilidade     |Média        |    -            |
-| RNF03 |  O sistema deve ser implementado na linguagem Java.              |  Organizacionais/Implementação       |Alta       |     -               |
-| RNF04 |  O sistema não deve revelar as informações de usuários.             |  Éticos      |Alta       |     -               |
-| RNF05 |  O sistema deverá armazenar as informações de acordo com a Lei Geral de Proteção de Dados (LGPD) - lei 13.709/2018              |  Legais       |Média       |     -   |
-| RNF06 |  O sistema ficará 24 horas online todos os dias.              |  Confiabilidade       | Baixa       |     -   |
+| RNF01 |  O usuário deve conseguir consultar os dados com no máximo 5 cliques | Usabilidade |Baixa       |     RF02, RF03            |
+| RNF02 |  O sistema deve ser operacionalizado em Windows e linux     |  Portabilidade     |Média        |    RF01            |
+| RNF03 |  O sistema deve ser implementado na linguagem Java.              |  Organizacionais/Implementação       |Alta       |     Todos RF's               |
+| RNF04 |  O sistema não deve revelar as informações de usuários.             |  Éticos      |Alta       |     RF01               |
+| RNF05 |  O sistema deverá armazenar as informações de acordo com a Lei Geral de Proteção de Dados (LGPD) - lei 13.709/2018              |  Legais       |Média       |     RF02, RF03   |
+| RNF06 |  O sistema ficará 24 horas online todos os dias.              |  Confiabilidade       | Baixa       |     RF01   |
 
 
 
