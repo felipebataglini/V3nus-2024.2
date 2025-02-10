@@ -94,50 +94,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
         </tr>
-                 <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-                                 <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-                                 <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-                                 <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-                                 <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-                                 <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-                                 <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder consultar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar uma visualização dos voluntarios ativos</li><li> Possibilitar a consulta dos dados dos voluntarios ativos</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-        </tr>
+
 </table>
 
 <div style="text-align: center">
