@@ -127,27 +127,27 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
                     <tr>
             <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder deletar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar qualquer tipo de alteração no cadastro dos voluntarios</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US15</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um administrador do sistema, quero que as informações das doações sejam mantidas em sigilo, para proteger a privacidade dos doadores</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Dados das doações não devem ser expostos a usuários não autorizados</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RFN04</td>
         </tr>
                     <tr>
             <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder deletar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar qualquer tipo de alteração no cadastro dos voluntarios</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US16</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um gestor de conformidade, quero que o sistema armazene as informações de acordo com a Lei Geral de Proteção de dados, para garantir a segurança e conformidade com a legislação vigente</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Os dados pessoais devem ser armazenados seguindo as diretrizes de LGPD</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RFN05</td>
         </tr>
                     <tr>
             <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder deletar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar qualquer tipo de alteração no cadastro dos voluntarios</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US17</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um usúario, quero que o sistema fique online 24 horas por dia, para que eu possa acessá-lo a qualquer momento sem interrupções</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve ter um uptime mínimo de 99%</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RFN06</td>
         </tr>
         
 
