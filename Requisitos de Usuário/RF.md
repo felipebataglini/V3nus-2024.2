@@ -5,16 +5,16 @@
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
 | RF01 |              O usuário deve poder entrar com seus dados, como CPF, nome, e-mail, entre outros..                  |  Alta      |     -       |
-| RF02 |             O usuário deve poder registrar e deletar escolas doadoras.    |  Alta      |     -       |
-| RF03 |             O usuário deve poder consultar e atualizar escolas doadoras.  |  Medio     |     -       |
-| RF04 |             O usuário deve poder registrar produtos recebidos.            |  Medio      |     -       |
-| RF05 |             O usuário deve poder consultar produtos recebidos.            |  Baixo      |     -       |
-| RF06 |             O usuário deve poder registrar produtos distribuidos.         |  Medio      |     -       |
-| RF07 |             O usuário deve poder consultar produtos distribuidos.         |  Baixo      |     -       |
-| RF08 |             O usuário deve poder acessar  o estoque geral.                |  Baixo      |     -       |
-| RF09 |              O usuário deve poder registrar voluntarios para o projeto.   |  Alta      |             |
-| RF010 |              O usuário deve poder deletar voluntarios do projeto.         |  Alta      |             |
-| RF011 |              O usuário deve poder consultar voluntarios do projeto.       |  Alta      |             |
+| RF02 |             O usuário deve poder registrar e deletar escolas doadoras.    |  Alta      |     RF03       |
+| RF03 |             O usuário deve poder consultar e atualizar escolas doadoras.  |  Medio     |     RF02       |
+| RF04 |             O usuário deve poder registrar produtos recebidos.            |  Medio      |     RF05       |
+| RF05 |             O usuário deve poder consultar produtos recebidos.            |  Baixo      |     RF04       |
+| RF06 |             O usuário deve poder registrar produtos distribuidos.         |  Medio      |     RF08       |
+| RF07 |             O usuário deve poder consultar produtos distribuidos.         |  Baixo      |     RF07       |
+| RF08 |             O usuário deve poder acessar  o estoque geral.                |  Baixo      |     RF04       |
+| RF09 |              O usuário deve poder registrar voluntarios para o projeto.   |  Alta      |       RF10,RF011      |
+| RF010 |              O usuário deve poder deletar voluntarios do projeto.         |  Alta      |      RF09,RF011       |
+| RF011 |              O usuário deve poder consultar voluntarios do projeto.       |  Alta      |      RF,09,RF010       |
 
 
 <div style="text-align: center">
