@@ -12,9 +12,9 @@
 | RF06 |             O usuário deve poder registrar produtos distribuidos.         |  Medio      |     RF08       |
 | RF07 |             O usuário deve poder consultar produtos distribuidos.         |  Baixo      |     RF07       |
 | RF08 |             O usuário deve poder acessar  o estoque geral.                |  Baixo      |     RF04       |
-| RF09 |              O usuário deve poder registrar voluntarios para o projeto.   |  Alta      |       RF10,RF011      |
-| RF010 |              O usuário deve poder deletar voluntarios do projeto.         |  Alta      |      RF09,RF011       |
-| RF011 |              O usuário deve poder consultar voluntarios do projeto.       |  Alta      |      RF,09,RF010       |
+| RF09 |              O usuário deve poder registrar voluntarios para o projeto.   |  Alta      |       RF10, RF11      |
+| RF10 |              O usuário deve poder deletar voluntarios do projeto.         |  Alta      |      RF09, RF11       |
+| RF11 |              O usuário deve poder consultar voluntarios do projeto.       |  Alta      |      RF09, RF10       |
 
 
 <div style="text-align: center">
