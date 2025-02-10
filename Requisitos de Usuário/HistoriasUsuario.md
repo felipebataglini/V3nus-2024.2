@@ -111,19 +111,19 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
                     <tr>
             <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder deletar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar qualquer tipo de alteração no cadastro dos voluntarios</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US13</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um administrados do sistema, quero que o sistema funcione tanto no Windows quanto no Linux, para garantir que ele possa ser utilizado em diferentes ambientes operacionais</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve rodas sem falhas tanto em Windows quanto em Linux</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RFN02</td>
         </tr>
                     <tr>
             <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário quero poder deletar voluntarios do projeto</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Possibilitar qualquer tipo de alteração no cadastro dos voluntarios</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US14</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como um desenvolvedor, preciso que o sistema seja implementado na linguagem Java, para garantir compatibilidade com a infraestrutura e conhecimentos da equipe</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O código-fonte principal deve ser escrito em Java</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RFN03</td>
         </tr>
                     <tr>
             <span id="ustory-01"></span>
